@@ -11,7 +11,7 @@ Console.log the petCat variable.
 
 Console.log the text "My pet dog's name is: " and the petDog variable.
 
-Console.log the text "My pet cat's name is: " and the petCat variable.
+Console.log the text "My pet ceat's name is: " and the petCat variable.
 
 Declare another variable and name it catSound. Assign the string of "purr" to it.
 
