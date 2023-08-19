@@ -1,1 +1,1 @@
-# JS
+That's My Learning Javascript Journey with Programming with JavaScript from Meta in Coursera. This will also work as a notebook and blog. I will share all the codes I wrote and my experiences. 
